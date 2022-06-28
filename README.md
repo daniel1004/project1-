@@ -2,4 +2,17 @@
 
 Projeto de Automação para envio de post em redes sociais
 
-[Alguma coisa dentro](https://www.google.com.br)
+## Linguagens Utilizadas
+
+- Phynton 3.10
+
+### Framework
+
+- DJango(web)
+
+### Bibliotecas
+
+- Selenium
+- WatchDog
+
+[Pega minha Batata](po.ta.to)
