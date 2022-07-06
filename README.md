@@ -15,4 +15,4 @@ Projeto de Automação para envio de post em redes sociais
 - Selenium
 - WatchDog
 
-[Pega minha Batata](po.ta.to)
+[Pega minha Batata](https://po.ta.to)
